@@ -12,5 +12,9 @@ A passionate Web developer
 ## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swathi17Y&show_icons=true&theme=dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swathi17Y)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swathi17Y)
+
 ---
-⭐️ Created with ❤️ by [Your Name]
+⭐️ Created with ❤️ by [Y.Swathi]
